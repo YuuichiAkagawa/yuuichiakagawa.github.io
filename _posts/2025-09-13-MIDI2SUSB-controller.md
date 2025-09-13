@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GitHub Pages開設"
+title:  "MIDI 2.0 USB コントローラの作成"
 date:   2025-09-13 21:09:10 +0900
 categories: MIDI2
 ---
